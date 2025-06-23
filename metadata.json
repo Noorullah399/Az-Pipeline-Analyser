@@ -1,0 +1,6 @@
+{
+  "name": "Azure DevOps Code & Pipeline Assistant",
+  "description": "An automated tool to scan code for security errors, view and assist in writing Azure DevOps pipelines, and perform code reviews using Gemini. Integrates with Azure DevOps to access projects and repositories.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
